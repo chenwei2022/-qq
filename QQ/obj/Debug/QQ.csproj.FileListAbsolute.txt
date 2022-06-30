@@ -1,0 +1,15 @@
+E:\c#\QQ\QQ\bin\Debug\QQ.exe
+E:\c#\QQ\QQ\bin\Debug\QQ.pdb
+E:\c#\QQ\QQ\obj\Debug\QQ.csprojResolveAssemblyReference.cache
+E:\c#\QQ\QQ\obj\Debug\QQ.LoginForm.resources
+E:\c#\QQ\QQ\obj\Debug\QQ.Properties.Resources.resources
+E:\c#\QQ\QQ\obj\Debug\QQ.csproj.GenerateResource.Cache
+E:\c#\QQ\QQ\obj\Debug\QQ.exe
+E:\c#\QQ\QQ\obj\Debug\QQ.pdb
+E:\c#\QQ\QQ\obj\Debug\QQ.MainForm.resources
+E:\c#\QQ\QQ\obj\Debug\QQ.ChatForm.resources
+E:\c#\QQ\QQ\obj\Debug\QQ.EditInforForm.resources
+E:\c#\QQ\QQ\obj\Debug\QQ.HeadForm.resources
+E:\c#\QQ\QQ\obj\Debug\QQ.AddRemind.resources
+E:\c#\QQ\QQ\obj\Debug\QQ.RegisterForm.resources
+E:\c#\QQ\QQ\obj\Debug\QQ.SearchForm.resources
